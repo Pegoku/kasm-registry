@@ -1,0 +1,22 @@
+{
+  "description": "Prism Launcher is a free and open-source Minecraft launcher.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "prism.png",
+  "name": "pegoku/prism-kasm:latest",
+  "run_config": {
+    "hostname": "prism"
+  },
+  "exec_config": {},
+  "categories": [
+    "Game"
+  ],
+  "friendly_name": "Prism Launcher",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 7280
+}
