@@ -2,11 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Pegoku Kasm Registry',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://pegoku.github.io/kasm-registry/',
   },
   reactStrictMode: true,
   swcMinify: true,
